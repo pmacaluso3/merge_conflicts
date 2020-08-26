@@ -9,5 +9,3 @@ function addition(a, b) {
 // test
 // merge
 // conflicts
-
-
